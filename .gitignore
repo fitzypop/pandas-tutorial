@@ -1,6 +1,7 @@
 # DON"T INCLUDE CSV FILES
 **.csv
 **.zip
+data/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
