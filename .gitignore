@@ -2,6 +2,7 @@
 **.csv
 **.zip
 data/**
+!data/placeholder
 .vscode/settings.json
 
 # Byte-compiled / optimized / DLL files
