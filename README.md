@@ -12,7 +12,7 @@ CSV and ZIP files have already been added to the .gitignore file.
 
 - [x] 1. Getting Started
 - [x] 2. DataFrame and Series Basics
-- [ ] 3. Indexes - How to Set, Reset, and Use Indexes
+- [x] 3. Indexes - How to Set, Reset, and Use Indexes
 - [ ] 4. Filtering
 - [ ] 5. Updating Rows and Columns
 - [ ] 6. Add/Remove Rows and Columns from DataFrames
