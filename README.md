@@ -13,7 +13,7 @@ CSV and ZIP files have already been added to the .gitignore file.
 - [x] 1. [Getting Started][1]
 - [x] 2. [DataFrame and Series Basics][2]
 - [x] 3. [Indexes - How to Set, Reset, and Use Indexes][3]
-- [ ] 4. [Filtering - Using Conditionals to Filter Rows and Columns][4]
+- [x] 4. [Filtering - Using Conditionals to Filter Rows and Columns][4]
 - [ ] 5. [Updating Rows and Columns][5]
 - [ ] 6. [Add/Remove Rows and Columns from DataFrames][6]
 - [ ] 7. [Sorting Data][7]
