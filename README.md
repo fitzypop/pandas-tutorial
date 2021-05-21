@@ -18,7 +18,7 @@ CSV and ZIP files have already been added to the .gitignore file.
 - [x] 6. [Add/Remove Rows and Columns from DataFrames][8]
 - [x] 7. [Sorting Data][9]
 - [x] 8. [Grouping and Aggregating][10]
-- [ ] 9. [Cleaning Data][11]
+- [x] 9. [Cleaning Data][11]
 - [ ] 10. [Working with Dates and Time Series Data][12]
 - [ ] 11. [Reading/Writing Data to Different Sources][13]
 
