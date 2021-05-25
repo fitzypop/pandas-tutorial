@@ -1,10 +1,12 @@
-# pandas_tutorial
+# Corey Schafer Pandas Tutorial
 
 Following Corey Schafer's [Pandas Tutorial Series][1]
 
 We'll be using csv data from Stackoverflow Developer Survey.
 
 [Download the zip file][2] and unzip contents into the data folder. All Notebooks will look in the `data/` directory for csv files.
+
+[Click here][14] to get the csv file for video 10 - Work with Dates and Time.
 
 CSV and ZIP files have already been added to the .gitignore file.
 
@@ -19,7 +21,7 @@ CSV and ZIP files have already been added to the .gitignore file.
 - [x] 7. [Sorting Data][9]
 - [x] 8. [Grouping and Aggregating][10]
 - [x] 9. [Cleaning Data][11]
-- [ ] 10. [Working with Dates and Time Series Data][12]
+- [x] 10. [Working with Dates and Time Series Data][12]
 - [ ] 11. [Reading/Writing Data to Different Sources][13]
 
 [1]: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
@@ -33,5 +35,6 @@ CSV and ZIP files have already been added to the .gitignore file.
 [9]: https://www.youtube.com/watch?v=T11QYVfZoD0&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=7
 [10]: https://www.youtube.com/watch?v=txMdrV1Ut64&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=8
 [11]: https://www.youtube.com/watch?v=KdmPHEnPJPs&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=9
-[12]:https://www.youtube.com/watch?v=UFuo7EHI8zc&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=10
-[13]:https://www.youtube.com/watch?v=N6hyN6BW6ao&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=11
+[12]: https://www.youtube.com/watch?v=UFuo7EHI8zc&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=10
+[13]: https://www.youtube.com/watch?v=N6hyN6BW6ao&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=11
+[14]: https://raw.githubusercontent.com/CoreyMSchafer/code_snippets/master/Python/Pandas/10-Datetime-Timeseries/ETH_1h.csv
