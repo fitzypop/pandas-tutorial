@@ -1,4 +1,4 @@
-# DON"T INCLUDE CSV FILES
+# DON'T INCLUDE CSV FILES
 **.csv
 **.zip
 data/**

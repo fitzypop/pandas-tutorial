@@ -22,7 +22,7 @@ CSV and ZIP files have already been added to the .gitignore file.
 - [x] 8. [Grouping and Aggregating][10]
 - [x] 9. [Cleaning Data][11]
 - [x] 10. [Working with Dates and Time Series Data][12]
-- [ ] 11. [Reading/Writing Data to Different Sources][13]
+- [x] 11. [Reading/Writing Data to Different Sources][13]
 
 [1]: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 [2]: https://insights.stackoverflow.com/survey
